@@ -1,13 +1,13 @@
-# 🩻 DICOM File Loading using pydicom
+# DICOM File Loading using pydicom
 
 This section demonstrates how to load and visualize a DICOM (Digital Imaging and Communications in Medicine) file using Python.
 
-## 📌 Overview
+##  Overview
 
 DICOM is a standard format used in medical imaging (CT scans, X-rays, MRI, etc.).  
 In this example, a sample DICOM file is loaded using `pydicom`, and the image is displayed using `matplotlib`.
 
-## ⚙️ Requirements
+## Requirements
 
 Install the required libraries:
 
