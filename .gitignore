@@ -1,0 +1,86 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+.env/
+env/
+ENV/
+.venv/
+
+# -----------------------------
+# 📦 Packaging / Distribution
+# -----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+
+# -----------------------------
+# 📓 Jupyter Notebook
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# 🧪 Testing / Coverage
+# -----------------------------
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# -----------------------------
+#  ML / Data / Models
+# -----------------------------
+data/
+datasets/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+
+# DICOM files (large medical data)
+*.dcm
+
+# -----------------------------
+# Images / Outputs
+# -----------------------------
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# -----------------------------
+# 📝 Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+#VS Code
+# -----------------------------
+.vscode/
+
+# -----------------------------
+# OS Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Environment Variables
+# -----------------------------
+.env
+.env.*
+
+# -----------------------------
+# ⚙️ Misc
+# -----------------------------
+*.sqlite3
+*.db
